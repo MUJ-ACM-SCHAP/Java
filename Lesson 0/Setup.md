@@ -13,7 +13,7 @@ Oracle provides 2 compilers (not much difference) with the names Oracle JDK and 
 
 ## OpenJDK
 Execute the following in terminal:
-* : `sudo apt install openjdk-11-jdk` 
+* `sudo apt install openjdk-11-jdk` 
 
 ## Oracle JDK
 Execute the following in terminal (in same order):
