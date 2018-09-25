@@ -5,7 +5,7 @@
   `C:\Program Files\Java\jdk[version]\bin`
 * Go to Right Click on 'This PC' > Properties > Advanced Tab > Environment Variables 
 * In User Variables, find `PATH` Variable. If found, choose to edit it, otherwise, create new variable.
-* Set the value of PATH as the address located earlier: `C:\Program Files\Java\jdk[version]\bin`. Note: If you are editing an already existing variable, paste the address at the beginning of the initial value, followed by `;` (semi-colon).
+* Set the value of `PATH` as the address located earlier: `C:\Program Files\Java\jdk[version]\bin`. Note: If you are editing an already existing variable, paste the address at the beginning of the initial value, followed by `;` (semi-colon).
 * Click Ok/Apply as needed.
 
 ## Linux (Ubuntu)
