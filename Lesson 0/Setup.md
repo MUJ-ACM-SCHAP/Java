@@ -11,14 +11,21 @@
 ## Linux (Ubuntu)
 Oracle provides 2 compilers (not much difference) with the names Oracle JDK and OpenJDK, you can choose any of them. Read [this](https://stackoverflow.com/questions/22358071/differences-between-oracle-jdk-and-openjdk) stackoverflow answer for differences.
 
-## OpenJDK
+### OpenJDK
 Execute the following in terminal:
 * `sudo apt install openjdk-11-jdk` 
 
-## Oracle JDK
+### Oracle JDK
 Execute the following in terminal (in same order):
 * `sudo add-apt-repository ppa:webupd8team/java`
 * `sudo apt update`
 * `sudo apt install oracle-java8-installer`
+
+## Mac
+* Video Link [here] (https://www.youtube.com/watch?v=y6szNJ4rMZ0).
+
+* Read Oracle Docs [here]( https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-macos.htm#JSJIG-GUID-F575EB4A-70D3-4AB4-A20E-DBE95171AB5F)
+
+* Download Oracle JDK [here](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 
