@@ -22,7 +22,7 @@ Execute the following in terminal (in same order):
 * `sudo apt install oracle-java8-installer`
 
 ## Mac
-* Video Link [here] (https://www.youtube.com/watch?v=y6szNJ4rMZ0).
+* Video Link [here](https://www.youtube.com/watch?v=y6szNJ4rMZ0).
 
 * Read Oracle Docs [here]( https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-macos.htm#JSJIG-GUID-F575EB4A-70D3-4AB4-A20E-DBE95171AB5F)
 
