@@ -1,2 +1,5 @@
-class epufile {
-public static void main(String args 
+class NewVersion{
+    public static void main(String [] args){
+        System.out.println("New File");
+    }
+}
