@@ -1,5 +1,5 @@
 import java.io.FileOutputStream;  
-public class Fileouteg{  
+public class Fileoutputeg{  
     public static void main(String args[]){    
            try{    
              FileOutputStream fout=new FileOutputStream("D:\\testout.txt");    
